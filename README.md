@@ -1,6 +1,6 @@
 # Fleet-Management-Analysis-Dashboard
 
-### Live Dashboard at Novypro (https://www.novypro.com/project/fleet-management-analysis-dashboard)
+### [Live Dashboard Link](https://www.novypro.com/project/fleet-management-analysis-dashboard)
 #
 ### Table of content
  - [Project Overview](#project-overview)
